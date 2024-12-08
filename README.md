@@ -1,2 +1,3 @@
 # WHUT-SE_Graduate_Rcords
-WHUT 读研纪实
+
+武汉理工大学 软件工程专硕 读研记录
