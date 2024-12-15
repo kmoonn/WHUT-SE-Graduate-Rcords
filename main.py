@@ -51,4 +51,4 @@ def show_contents():
 
 if __name__ == '__main__':
     make_dirs()
-    # show_contents()
+    show_contents()
